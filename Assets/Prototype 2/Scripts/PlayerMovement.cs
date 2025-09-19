@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour
     SpriteRenderer _sr;
     Vector2 _vm;
 
+    public bool isVerticalMovementOn = false;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,7 +21,8 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         _vm.x = Input.GetAxisRaw("Horizontal");
-        _vm.y = Input.GetAxisRaw("Vertical");
+
+        if (isVerticalMovementOn) _vm.y = Input.GetAxisRaw("Vertical");
     }
 
     private void FixedUpdate()

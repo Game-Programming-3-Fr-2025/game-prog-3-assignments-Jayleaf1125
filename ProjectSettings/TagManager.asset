@@ -2,8 +2,12 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Left Border
+  - Right Border
+  - Door
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -41,3 +45,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: World 3
+    uniqueID: 3861694605
+    locked: 0
+  - name: World 2
+    uniqueID: 2754365509
+    locked: 0
+  - name: World 1
+    uniqueID: 1225615537
+    locked: 0
+  - name: Door
+    uniqueID: 2085155343
+    locked: 0
+  - name: Player
+    uniqueID: 1213024499
+    locked: 0
+  m_RenderingLayers:
+  - Default
