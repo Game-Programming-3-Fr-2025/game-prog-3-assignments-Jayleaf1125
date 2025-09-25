@@ -30,3 +30,4 @@ public class PlayerMovement : MonoBehaviour
         _rb.MovePosition(_rb.position + _vm * speed * Time.fixedDeltaTime);
     }
 }
+
