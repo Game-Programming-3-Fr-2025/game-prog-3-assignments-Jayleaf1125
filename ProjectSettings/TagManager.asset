@@ -3,23 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - Left Border
-  - Right Border
-  - Door
-  - Key
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
-<<<<<<< HEAD
-  - Player
-=======
-  - Ground
->>>>>>> 340deb27c9e0b6ea5a90f86ad17f001fd166ca98
+  - 
   - 
   - 
   - 
@@ -48,21 +40,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: World 3
-    uniqueID: 3861694605
-    locked: 0
-  - name: World 2
-    uniqueID: 2754365509
-    locked: 0
-  - name: World 1
-    uniqueID: 1225615537
-    locked: 0
-  - name: Door
-    uniqueID: 2085155343
-    locked: 0
-  - name: Player
-    uniqueID: 1213024499
     locked: 0
   m_RenderingLayers:
   - Default

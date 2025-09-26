@@ -214,10 +214,7 @@ GameObject:
   - component: {fileID: 277360987}
   - component: {fileID: 277360986}
   - component: {fileID: 277360985}
-<<<<<<< HEAD
-=======
   - component: {fileID: 277360989}
->>>>>>> 340deb27c9e0b6ea5a90f86ad17f001fd166ca98
   - component: {fileID: 277360988}
   m_Layer: 0
   m_Name: Main Camera
@@ -268,13 +265,8 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-<<<<<<< HEAD
-  orthographic: 1
-  orthographic size: 8.3
-=======
   orthographic: 0
   orthographic size: 21.756815
->>>>>>> 340deb27c9e0b6ea5a90f86ad17f001fd166ca98
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -299,9 +291,6 @@ Transform:
   m_GameObject: {fileID: 277360984}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
-  m_LocalPosition: {x: -1.47, y: -1.99, z: -10}
-=======
   m_LocalPosition: {x: -1.0566387, y: -3.71, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -617,7 +606,6 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.0566387, y: -3.71, z: -10}
->>>>>>> 340deb27c9e0b6ea5a90f86ad17f001fd166ca98
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1678,15 +1666,6 @@ SceneRoots:
   - {fileID: 277360987}
   - {fileID: 8846582970029695286}
   - {fileID: 183687240}
-<<<<<<< HEAD
-  - {fileID: 1542291954}
-  - {fileID: 1349158859}
-  - {fileID: 1369645381}
-  - {fileID: 923415044}
-  - {fileID: 964263703}
-  - {fileID: 2106034862}
-=======
   - {fileID: 810562008}
   - {fileID: 1052349601}
   - {fileID: 1644810006}
->>>>>>> 340deb27c9e0b6ea5a90f86ad17f001fd166ca98
